@@ -1,0 +1,42 @@
+﻿  GameManager.cpp
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(142,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(143,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(162,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(162,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(178,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(179,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(196,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(196,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(212,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(213,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(231,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(231,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(251,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(252,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(269,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(269,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(285,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(286,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(303,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(303,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(319,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(320,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(338,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(338,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(359,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(360,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(377,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(377,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(392,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(393,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(410,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(410,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(425,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(426,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(444,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(444,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(79): warning C4715: 'GameManager::CharacterSelect': not all control paths return a value
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(482): warning C4715: 'GameManager::PlayerAttack': not all control paths return a value
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(566): warning C4715: 'GameManager::CalculatePlayerAttack': not all control paths return a value
+E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\GameManager.cpp(625): warning C4715: 'GameManager::CalculateOpponentAttack': not all control paths return a value
+  Final_CSC275.vcxproj -> E:\Kevin Shimizu\OneDrive\Documents\UAT\Course Work\C++ Programming II\Projects\Final_CSC275\Debug\Final_CSC275.exe
